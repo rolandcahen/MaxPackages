@@ -1,0 +1,3 @@
+As I needed to use s2m.wacomtouch and the former version didn't work.
+I must say I asked Claude to help me updating it. It works with Intuos pro PTH-651 and Wacom drivers 6.4.9-2 (and higher for newer tablets).
+Je l’ai diffusé sur le forum Max Cycling74  s2m.wacomtouch update - Misc Forum | Cycling '74
